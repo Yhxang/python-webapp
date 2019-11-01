@@ -5,9 +5,9 @@
 ---|---
 Day-01|搭建开发环境
 
-###Day 1 搭建开发环境
+### Day 1 搭建开发环境
+#### 项目结构
 
-####项目结构
     awsome-python3-webapp/  <- 根目录
     +- backup/              <- 备份目录
     +- conf/                <- 配置文件
@@ -17,3 +17,4 @@ Day-01|搭建开发环境
     |   +- templates/       <- 存放模板文件
     +- ios/                 <- 存放iOS App工程
     +- LICENSE              <- 代码LISENSE
+    
