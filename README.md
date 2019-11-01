@@ -17,4 +17,6 @@ Day-01|搭建开发环境
     |   +- templates/       <- 存放模板文件
     +- ios/                 <- 存放iOS App工程
     +- LICENSE              <- 代码LISENSE
-    
+
+### Day 2 编写Web APP骨架
+使用aiohttp，廖雪峰教程已过时，参考[最新版参考文档](https://docs.aiohttp.org/en/latest/)
