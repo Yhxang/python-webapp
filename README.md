@@ -1,10 +1,11 @@
 # python-webapp
-*根据廖雪峰老师教程所做练习*
+*根据[廖雪峰老师教程](https://www.liaoxuefeng.com/wiki/1016959663602400/1018138095494592)所做练习*
 
 分支名|内容
 ---|---
 Day-01|搭建开发环境
 Day-02|编写Web App骨架
+Day-03|编写ORM
 
 ### Day 1 搭建开发环境
 #### 项目结构
@@ -20,4 +21,8 @@ Day-02|编写Web App骨架
     +- LICENSE              <- 代码LISENSE
 
 ### Day 2 编写Web APP骨架
-使用aiohttp，廖雪峰教程已过时，参考[最新版参考文档](https://docs.aiohttp.org/en/latest/)
+使用`aiohttp`，廖雪峰教程已过时，参考[最新版参考文档](https://docs.aiohttp.org/en/latest/)
+
+### Day 3 编写ORM
+一旦使用异步，则系统每一层都必须是异步，使用`aiomysql`
+> “开弓没有回头箭”
