@@ -6,6 +6,7 @@
 Day-01|搭建开发环境
 Day-02|编写Web App骨架
 Day-03|编写ORM
+Day-04|编写Model
 
 ### Day 1 搭建开发环境
 #### 项目结构
@@ -26,3 +27,6 @@ Day-03|编写ORM
 ### Day 3 编写ORM
 一旦使用异步，则系统每一层都必须是异步，使用`aiomysql`
 > “开弓没有回头箭”
+
+### Day 4 编写Model
+把Web App需要的3个表用Model表示出来
