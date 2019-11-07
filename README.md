@@ -3,10 +3,10 @@
 
 分支名|内容
 ---|---
-Day-01|[搭建开发环境](#Day 1 搭建开发环境)
-Day-02|[编写Web App骨架](#Day 2 编写Web APP骨架)
-Day-03|[编写ORM](#Day 3 编写ORM)
-Day-04|[编写Model](Day 4 编写Model)
+Day-01|[搭建开发环境](#day-1-搭建开发环境)
+Day-02|[编写Web App骨架](#day-2-编写web-app骨架)
+Day-03|[编写ORM](#day-3-编写orm)
+Day-04|[编写Model](#day-4-编写model)
 
 ### Day 1 搭建开发环境
 #### 项目结构
